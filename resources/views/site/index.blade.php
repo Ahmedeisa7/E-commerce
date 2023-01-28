@@ -138,7 +138,15 @@
 
 
 
+        
 
+
+
+
+
+
+
+                                    
 										<!-- product -->
                                         @foreach( $products as $product)
 										<div class="product">
